@@ -72,6 +72,6 @@ public class FiguresCollection {
     }
 
     public static void editFigure(Scanner input, ArrayList<Figures> allFigure){
-        System.out.println("\nПрограмма написана на Java, насколько понимаю, на Java это невыполнимо");
+        System.out.println("\nПрограмма написана на Java. По идее, на Java это невозможно.");
     }
 }
